@@ -73,7 +73,7 @@ Ou se preferir, faça o [download](https://github.com/Lorenalgm/DevChallengeAPI/
 
 ### Inicializando os contêineres
 ```bash
-$ docker-compose build && docker-compose up -d
+$ docker compose build && docker compose up -d
 ```
 
 **Nota:** O servidor e a instância do MongoDB estará rodando nas portas 3001 e 3002, respectivamente.
